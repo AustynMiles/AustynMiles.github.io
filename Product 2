@@ -22,6 +22,9 @@
 
 <body>
 
+
+
+
 	<h1>Antique Bodywear</h1>
   <h2>Antique Shirts</h2>
 <p> 
@@ -45,13 +48,13 @@
    <th>Rustic shoes</th>
       <td>Earthy tones, and natutal aging</td>
       <td> <img src="rustic look.png" alt = "Rustic shoes"/> </td>
-	    <td> $38 </td>
+      <td> $38 </td>
    </tr>
    <tr>
    <th> classic vintage look </th>
       <td>The stand-out classic that always catches people's attention</td>
       <td> <img src="classicshoes.jpg" alt = "Classic"/> </td>
-      <tr> $40 </td>
+      <td> $40 </td>
   </tr>
   <tr>
   <th> unique fitting shoes </th>
@@ -63,6 +66,7 @@
    <th> The Richard </th>
       <td>A get-away classic</td>
       <td> <img src="TheRichard.jpg" alt = "Richard"/> </td>
+      <td> Out of Stock </td>
       
 	<a href="https://austynmiles.github.io/">Back to homepage</a>
 
