@@ -36,27 +36,27 @@
   <tr>
       <th>old coat</th>
       <td>This coat is old and unique</td>
-      <td> <img src="oldcoat.jpg" alt = "Unique Antique Boutique"/> </td>
+      <td> <img src="oldcoat.jpg" alt = "old coat"/> </td>
    </tr>
    <tr>
        <th>Boots of Gondor</th>
        <td>These boots are a replica of King Gondor's boots</td>
-       <td> <img src="Very-Old-Shoes.jpg" alt = "Unique Antique Boutique"/> </td>
+       <td> <img src="Very-Old-Shoes.jpg" alt = "Gondor's boots"/> </td>
    </tr>
    <tr>
         <th>The first jeans ever created<th>
         <td>This is the first pair of jeans to ever exist</td>
-	<td> <img src="oldjeans.jpg" alt = "Unique Antique Boutique"/> </td>
+	<td> <img src="oldjeans.jpg" alt = "First ever jeans"/> </td>
     </tr>
     <tr>
         <th>Antique shirt<th>
         <td>This shirt was created in 1742</td>
-	<td> <img src="oldshirt.jpg" alt = "Unique Antique Boutique"/> </td>
-	</tr>
-	<tr>
+	<td> <img src="oldshirt.jpg" alt = "Antique shirt"/> </td>
+     </tr>
+     <tr>
 	<th>colonial dress</th>
 	<td>The all-american classic</td>
-	<td> <img src="colonialdress.jpg" alt = "Unique Antique Boutique"/> </td>
+	<td> <img src="colonialdress.jpg" alt = "Colonial dress"/> </td>
 
 </body>
 
