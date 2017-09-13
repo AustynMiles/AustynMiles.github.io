@@ -36,7 +36,7 @@
   <tr>
       <th>old coat</th>
       <td>This coat is old and unique</td>
-      <img src="old coat.jpg" alt = "Unique Antique Boutique"/>
+      <img src="oldcoat.jpg" alt = "Unique Antique Boutique"/>
    </tr>
    <tr>
        <th>style>
