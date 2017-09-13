@@ -37,26 +37,31 @@
       <th>old coat</th>
       <td>This coat is old and unique</td>
       <td> <img src="oldcoat.jpg" alt = "old coat"/> </td>
+      <td> $75 </td>
    </tr>
    <tr>
        <th>Boots of Gondor</th>
        <td>These boots are a replica of King Gondor's boots</td>
        <td> <img src="Very-Old-Shoes.jpg" alt = "Gondor's boots"/> </td>
+       <td> $40 </td>
    </tr>
    <tr>
         <th>The first jeans ever created<th>
         <td>This is the first pair of jeans to ever exist</td>
 	<td> <img src="oldjeans.jpg" alt = "First ever jeans"/> </td>
+	<td> $40 </td>
     </tr>
     <tr>
         <th>Antique shirt<th>
         <td>This shirt was created in 1742</td>
 	<td> <img src="oldshirt.jpg" alt = "Antique shirt"/> </td>
+	<td> $20 </td>
      </tr>
      <tr>
 	<th>colonial dress</th>
 	<td>The all-american classic</td>
 	<td> <img src="colonialdress.jpg" alt = "Colonial dress"/> </td>
+	<td> $60 </td>
 
 </body>
 
