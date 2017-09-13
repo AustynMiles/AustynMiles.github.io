@@ -1,0 +1,81 @@
+<!doctype html>
+
+
+
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+
+
+
+  <title>Unique Antique Boutique</title>
+
+  <meta name="description" content="HTML5 Template">
+
+
+
+</head>
+
+
+
+<body>
+
+	<h1>Antique Bodywear</h1>
+  <h2>Antique Shirts</h2>
+<p> 
+
+	Browse our unique collection! </br>
+
+	</p>
+  
+  <table border ="2" cellpadding="2" cellspacing="2">
+  
+  <caption>Shoes</caption>
+
+   
+   <tr>
+   <th>Boots of Gondor</th>
+       <td>These boots are a replica of King Gondor's boots</td>
+       <td> <img src="Very-Old-Shoes.jpg" alt = "Gondor's boots"/> </td>
+       <td> $40 </td>
+   </tr>
+   <tr>
+   <th>Rustic shoes</th>
+      <td>Earthy tones, and natutal aging</td>
+      <td> <img src="rustic look.png" alt = "Rustic shoes"/> </td>
+	    <td> $38 </td>
+   </tr>
+   <tr>
+   <th> classic vintage look </th>
+      <td>The stand-out classic that always catches people's attention</td>
+      <td> <img src="classicshoes.jpg" alt = "Classic"/> </td>
+      <tr> $40 </td>
+  </tr>
+  <tr>
+  <th> unique fitting shoes </th>
+      <td>A unique fitting shoes no one else carries</td>
+      <td>  <img src="uniquefit.jpg" alt = "Unique"/> </td>
+      <td> $30 </td>
+   </tr>
+   <tr> 
+   <th> The Richard </th>
+      <td>A get-away classic</td>
+      <td> <img src="TheRichard.jpg" alt = "Richard"/> </td>
+      
+	<a href="https://austynmiles.github.io/">Back to homepage</a>
+
+</body>
+
+</html>
+
+   
+   <tr>
+       
+	
+	<a href="https://austynmiles.github.io/">Back to homepage</a>
+
+</body>
+
+</html>
