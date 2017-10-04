@@ -26,4 +26,8 @@ a:hover {
 
 a:active {
     color: Yellow;
-} 	
+} 
+
+table, th, td {
+   border: 4px solid Navy;
+} 
