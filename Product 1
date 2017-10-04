@@ -13,8 +13,8 @@
   <title>Unique Antique Boutique</title>
 
   <meta name="description" content="HTML5 Template">
-
-
+  
+  <link rel="stylesheet" href="style.css" type="text/css" />
 
 </head>
 
