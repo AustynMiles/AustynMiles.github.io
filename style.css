@@ -12,4 +12,18 @@ p{
 	font-family: "Times New Romaan", color: Black;
 }
 
-	
+a:link {
+    color: Blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: Yellow;
+} 	
