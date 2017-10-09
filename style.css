@@ -2,15 +2,14 @@ h1
 {
 	background-color:navy;
 	color: Black;
-)
+}
 	p.rel
-	(
+	{
 		position:relative;
-		top:100px;
-		left 100px;
+		top:10px;
+		left 10px;
 		width: 700px;
-		text-allign:center;
-	)
+	text-allign:center;}
 body
 {
 	background-color: off-white;
