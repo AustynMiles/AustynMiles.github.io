@@ -2,6 +2,14 @@ h1
 {
 	background-color:navy;
 	color: Black;
+	p.rel
+	(
+		position:relative;
+		top:100px;
+		left 100px;
+		width: 700px;
+		text-allign:center;
+	)
 }
 body 
 {
