@@ -3,8 +3,7 @@ h1
 	background-color:navy;
 	color: Black;
 }
-	h1.rel
-	{
+	#official-info {
 		position:relative;
 		top:10px;
 		left: 10px;
