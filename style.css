@@ -3,7 +3,7 @@
 	background-color:navy;
 	color: Black;
 }
-	#official-info {
+	#Description {
 		position:relative;
 		top:40px;
 		left: 40px;
@@ -62,3 +62,10 @@ th, td {
     padding: 20px;
     text-align: left;
 } 
+
+	#Links{
+		position:relative;
+		top:80px;
+		left: 10px;
+		width: 700px;
+		text-allign:center;
