@@ -23,6 +23,7 @@
 
 <body>
 
+<div id="Description">
 	<h1>Antique Bodywear</h1>
   <h2>Antique Clothing</h2>
 <p> 
@@ -63,6 +64,7 @@
 	<td>The all-american classic</td>
 	<td> <img src="colonialdress.jpg" alt = "Colonial dress"/> </td>
 	<td> $60 </td
+</div>
 	
 	<a href="https://austynmiles.github.io/">Back to homepage</a>
 	</tr>
