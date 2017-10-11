@@ -2,6 +2,18 @@
 {
 	background-color:navy;
 	color: Black;
+	
+	#Heading {
+
+		position:relative;
+
+		top:10px;
+
+		left: 10px;
+
+		width:700px
+
+		text-allign:center;}
 }
 	
 body
