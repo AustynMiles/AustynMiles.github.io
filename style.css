@@ -3,13 +3,7 @@
 	background-color:navy;
 	color: Black;
 }
-	#Description {
-		position:relative;
-		top:40px;
-		left: 40px;
-		width: 700px;
-		text-allign:center;
-}
+	
 body
 {
 	background-color: off-white;
@@ -19,13 +13,12 @@ p{
 	font-family: "Times New Romaan", color: Black;
 }
 
-a.rel {
-	position:relative
-	top:30px;
-	left: 0px;
-	width: 40px;
-	text-allign:left;
-}
+	#Description {
+		position:relative;
+		top:40px;
+		left:40px;
+		width:700px
+		text-allign:center;}
 	
 
 a:link {
