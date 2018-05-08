@@ -20,6 +20,7 @@ body
 {
 	background-image: url(Rainbow-road-n64.png);
 	background-image: no-repeat;
+	background-image: cover;
 	background-color: off-white;
 	color: Black;
 	}
