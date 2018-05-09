@@ -18,12 +18,7 @@
 	
 body
 {
-    width: 100%;
-    height: 400px;
-    background-image: url(Rainbow-road-n64.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    border: 1px solid red;
+
 	}
 p{
 	font-family: "Times New Roman", color: Black;
