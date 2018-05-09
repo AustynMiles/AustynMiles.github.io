@@ -23,9 +23,9 @@ body
     background-image: url(Rainbow-road-n64.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    border: 1px solid red;
 	}
-#stoplight {
+
+<img src="Traffic_light_red.png" alt = "Traffic Light - Red"/>  {
 	position: relative;
 	top: 500px;
 	bottom: 50px;
@@ -34,7 +34,7 @@ body
     	width: 200px;
 }
 p{
-	font-family: "Times New Roman", color: Black;
+	font-family: "Times New Roman", color: white;
 }
 
 	#Description {
