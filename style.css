@@ -26,6 +26,10 @@ body
     border: 1px solid red;
 	}
 #stoplight {
+	position: relative;
+	top: 500px;
+	bottom: 50px;
+	left: 500 px;
 	height: 200px;
     	width: 200px;
 }
