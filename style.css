@@ -24,15 +24,6 @@ body
     background-repeat: no-repeat;
     background-size: 100% 100%;
 	}
-
-<img src="Traffic_light_red.png" alt = "Traffic Light - Red"/>  {
-	position: relative;
-	top: 500px;
-	bottom: 50px;
-	left: 500 px;
-	height: 200px;
-    	width: 200px;
-}
 p{
 	font-family: "Times New Roman", color: white;
 }
