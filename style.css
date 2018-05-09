@@ -25,6 +25,10 @@ body
     background-size: 100% 100%;
     border: 1px solid red;
 	}
+#stoplight {
+	height: 200px;
+    	width: 50%;
+}
 p{
 	font-family: "Times New Roman", color: Black;
 }
